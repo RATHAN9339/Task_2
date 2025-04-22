@@ -2,6 +2,7 @@
 **Task 2: Data Visualization and Storytelling**
 
 **Objective: Create visualizations that convey a compelling story.**
+
 Tool Used: Power BI
 1) Imported and cleaned sales data in Power BI Desktop.
 2) Created interactive dashboards with charts for:
